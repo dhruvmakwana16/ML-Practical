@@ -1,0 +1,101 @@
+ID,First Name,Last Name,Age,Email,Phone,Grade Level,GPA,Extracurricular Activities
+1,Linda,Rodriguez,18,linda.rodriguez2@student.edu,555-202-9628,Junior,2.9,Basketball
+2,Elizabeth,Davis,14,elizabeth.davis3@student.edu,555-294-4912,Sophomore,3.8,Student Council
+3,Robert,Johnson,15,robert.johnson4@student.edu,555-764-9694,Sophomore,4,Robotics
+4,Patricia,Williams,15,patricia.williams5@student.edu,555-891-1670,Sophomore,3.7,Drama Club
+5,Patricia,Williams,18,patricia.williams6@student.edu,555-263-8481,Sophomore,2.3,Robotics
+6,John,Smith,15,john.smith7@student.edu,555-497-9239,Junior,2,Basketball
+7,Michael,Garcia,16,michael.garcia8@student.edu,555-680-7521,Senior,3.3,Drama Club
+8,James,Johnson,15,james.johnson9@student.edu,555-491-1440,Freshman,2.4,Student Council
+9,Michael,Garcia,16,michael.garcia10@student.edu,555-666-4851,Junior,3.6,Drama Club
+10,Mary,Martinez,16,mary.martinez11@student.edu,555-919-4986,Senior,3,Student Council
+11,Mary,Jones,15,mary.jones12@student.edu,555-374-8280,Senior,3.8,Student Council
+12,James,Brown,14,james.brown13@student.edu,555-967-7918,Senior,2.7,Basketball
+13,Mary,Garcia,18,mary.garcia14@student.edu,555-960-4922,Freshman,3.8,Drama Club
+14,Robert,Williams,14,robert.williams15@student.edu,555-224-9824,Sophomore,2.7,Drama Club
+15,William,Smith,14,william.smith16@student.edu,555-500-8983,Sophomore,2.5,Student Council
+16,William,Miller,16,william.miller17@student.edu,555-236-6279,Freshman,2.3,Student Council
+17,Mary,Johnson,16,mary.johnson18@student.edu,555-469-1784,Freshman,3.2,Drama Club
+18,John,Miller,15,john.miller19@student.edu,555-942-5194,Sophomore,3.3,Basketball
+19,William,Martinez,16,william.martinez20@student.edu,555-597-3741,Junior,4,Debate Club
+20,Michael,Miller,14,michael.miller21@student.edu,555-856-1283,Sophomore,3.3,Drama Club
+21,John,Martinez,15,john.martinez22@student.edu,555-737-3545,Sophomore,3.3,Debate Club
+22,Mary,Miller,16,mary.miller23@student.edu,555-126-5645,Senior,2.4,Student Council
+23,James,Brown,16,james.brown24@student.edu,555-621-4126,Senior,2.3,Debate Club
+24,Mary,Johnson,14,mary.johnson25@student.edu,555-530-2537,Sophomore,2.6,Basketball
+25,Elizabeth,Brown,16,elizabeth.brown26@student.edu,555-942-3053,Senior,3.9,Robotics
+26,John,Rodriguez,15,john.rodriguez27@student.edu,555-735-2788,Junior,3.6,Student Council
+27,John,Jones,18,john.jones28@student.edu,555-815-7908,Freshman,3.5,Drama Club
+28,Patricia,Miller,17,patricia.miller29@student.edu,555-424-3924,Freshman,2.4,Debate Club
+29,Patricia,Jones,17,patricia.jones30@student.edu,555-664-6835,Sophomore,3.2,Robotics
+30,James,Miller,16,james.miller31@student.edu,555-137-1020,Junior,2.4,Robotics
+31,James,Miller,15,james.miller32@student.edu,555-893-7893,Sophomore,2.7,Robotics
+32,Michael,Garcia,16,michael.garcia33@student.edu,555-359-4477,Junior,2.6,Student Council
+33,William,Rodriguez,18,william.rodriguez34@student.edu,555-295-9075,Senior,3.3,Debate Club
+34,Robert,Miller,17,robert.miller35@student.edu,555-537-4429,Junior,3.3,Drama Club
+35,Patricia,Johnson,16,patricia.johnson36@student.edu,555-671-8834,Senior,2.3,Drama Club
+36,John,Davis,14,john.davis37@student.edu,555-624-3230,Senior,3.2,Student Council
+37,Michael,Garcia,18,michael.garcia38@student.edu,555-441-5764,Junior,2.4,Student Council
+38,Robert,Martinez,17,robert.martinez39@student.edu,555-859-5541,Senior,2.7,Drama Club
+39,Michael,Jones,14,michael.jones40@student.edu,555-860-4638,Junior,3.3,Drama Club
+40,John,Brown,14,john.brown41@student.edu,555-649-1840,Senior,4,Student Council
+41,Michael,Jones,16,michael.jones42@student.edu,555-933-2335,Sophomore,2.9,Robotics
+42,Linda,Johnson,14,linda.johnson43@student.edu,555-938-1821,Freshman,2.4,Student Council
+43,John,Martinez,14,john.martinez44@student.edu,555-304-5344,Freshman,3.6,Basketball
+44,Michael,Garcia,17,michael.garcia45@student.edu,555-285-6004,Junior,3.9,Basketball
+45,John,Martinez,16,john.martinez46@student.edu,555-354-6409,Freshman,3.2,Student Council
+46,Jennifer,Williams,14,jennifer.williams47@student.edu,555-510-5082,Junior,2.2,Drama Club
+47,Jennifer,Smith,18,jennifer.smith48@student.edu,555-538-7590,Sophomore,2.8,Basketball
+48,Elizabeth,Martinez,16,elizabeth.martinez49@student.edu,555-724-9966,Sophomore,2.2,Student Council
+49,Jennifer,Johnson,18,jennifer.johnson50@student.edu,555-759-8478,Junior,3.5,Student Council
+50,Linda,Garcia,18,linda.garcia51@student.edu,555-895-2222,Senior,3.1,Drama Club
+51,Mary,Brown,16,mary.brown52@student.edu,555-879-2543,Junior,3.7,Debate Club
+52,Robert,Garcia,17,robert.garcia53@student.edu,555-441-4643,Junior,3.5,Debate Club
+53,Michael,Miller,15,michael.miller54@student.edu,555-927-9641,Junior,2.9,Robotics
+54,Michael,Smith,18,michael.smith55@student.edu,555-422-7938,Sophomore,2.2,Debate Club
+55,Patricia,Jones,16,patricia.jones56@student.edu,555-800-9518,Sophomore,2.5,Debate Club
+56,Linda,Davis,18,linda.davis57@student.edu,555-725-7162,Junior,2.9,Debate Club
+57,Mary,Miller,16,mary.miller58@student.edu,555-391-4722,Sophomore,3.6,Basketball
+58,Elizabeth,Johnson,18,elizabeth.johnson59@student.edu,555-929-1334,Junior,3.1,Student Council
+59,Elizabeth,Jones,17,elizabeth.jones60@student.edu,555-436-8753,Senior,2.6,Debate Club
+60,Robert,Smith,18,robert.smith61@student.edu,555-458-3830,Junior,3.3,Debate Club
+61,James,Martinez,17,james.martinez62@student.edu,555-719-2384,Senior,3,Student Council
+62,Jennifer,Jones,18,jennifer.jones63@student.edu,555-645-8588,Freshman,2.9,Basketball
+63,Mary,Martinez,17,mary.martinez64@student.edu,555-218-9074,Senior,2.1,Debate Club
+64,Patricia,Johnson,18,patricia.johnson65@student.edu,555-544-6839,Junior,3.2,Drama Club
+65,Elizabeth,Johnson,14,elizabeth.johnson66@student.edu,555-654-4080,Senior,3.6,Drama Club
+66,Jennifer,Martinez,14,jennifer.martinez67@student.edu,555-245-2072,Junior,3.6,Debate Club
+67,Jennifer,Williams,18,jennifer.williams68@student.edu,555-841-2399,Sophomore,2.2,Debate Club
+68,James,Rodriguez,17,james.rodriguez69@student.edu,555-794-4225,Freshman,3.5,Drama Club
+69,James,Miller,17,james.miller70@student.edu,555-824-9932,Senior,2.5,Robotics
+70,Mary,Miller,18,mary.miller71@student.edu,555-505-8601,Sophomore,3.4,Debate Club
+71,Mary,Williams,16,mary.williams72@student.edu,555-518-9339,Junior,2.1,Robotics
+72,Jennifer,Jones,17,jennifer.jones73@student.edu,555-228-7885,Sophomore,3.9,Debate Club
+73,James,Garcia,16,james.garcia74@student.edu,555-694-4903,Junior,4,Basketball
+74,Mary,Garcia,14,mary.garcia75@student.edu,555-836-2714,Senior,2.8,Student Council
+75,John,Smith,16,john.smith76@student.edu,555-160-8331,Senior,3.1,Basketball
+76,Michael,Smith,17,michael.smith77@student.edu,555-251-1661,Freshman,2.2,Basketball
+77,Jennifer,Miller,14,jennifer.miller78@student.edu,555-313-6838,Freshman,3.2,Basketball
+78,Jennifer,Williams,15,jennifer.williams79@student.edu,555-956-9151,Sophomore,2.8,Basketball
+79,John,Johnson,17,john.johnson80@student.edu,555-394-2054,Junior,2.9,Basketball
+80,Michael,Garcia,18,michael.garcia81@student.edu,555-499-7806,Sophomore,3.4,Basketball
+81,Jennifer,Williams,14,jennifer.williams82@student.edu,555-768-8241,Freshman,3.9,Robotics
+82,William,Davis,16,william.davis83@student.edu,555-114-3927,Senior,2.4,Robotics
+83,Elizabeth,Smith,18,elizabeth.smith84@student.edu,555-618-9090,Junior,3,Drama Club
+84,Elizabeth,Davis,14,elizabeth.davis85@student.edu,555-777-6343,Sophomore,2.9,Basketball
+85,Michael,Johnson,15,michael.johnson86@student.edu,555-175-5871,Senior,2.5,Basketball
+86,James,Smith,15,james.smith87@student.edu,555-204-6677,Freshman,3.7,Basketball
+87,William,Rodriguez,15,william.rodriguez88@student.edu,555-631-5044,Freshman,3.1,Basketball
+88,Robert,Brown,18,robert.brown89@student.edu,555-234-2115,Junior,3.4,Robotics
+89,Patricia,Johnson,15,patricia.johnson90@student.edu,555-246-8516,Junior,3.7,Basketball
+90,Jennifer,Garcia,16,jennifer.garcia91@student.edu,555-416-3171,Sophomore,2.2,Drama Club
+91,Elizabeth,Williams,14,elizabeth.williams92@student.edu,555-204-1618,Freshman,3.6,Drama Club
+92,Linda,Smith,15,linda.smith93@student.edu,555-443-5555,Senior,2,Robotics
+93,Linda,Johnson,14,linda.johnson94@student.edu,555-909-5533,Freshman,2.5,Debate Club
+94,John,Johnson,17,john.johnson95@student.edu,555-114-5165,Freshman,4,Drama Club
+95,Jennifer,Brown,18,jennifer.brown96@student.edu,555-286-4334,Junior,3.3,Debate Club
+96,Jennifer,Martinez,15,jennifer.martinez97@student.edu,555-372-1470,Sophomore,4,Basketball
+97,Patricia,Johnson,18,patricia.johnson98@student.edu,555-297-7013,Senior,2,Drama Club
+98,Linda,Miller,14,linda.miller99@student.edu,555-741-7989,Freshman,2.1,Drama Club
+99,Elizabeth,Martinez,15,elizabeth.martinez100@student.edu,555-744-5904,Sophomore,3.9,Drama Club
+100,Jennifer,Johnson,14,jennifer.johnson101@student.edu,555-279-9362,Sophomore,3.5,Debate Club
